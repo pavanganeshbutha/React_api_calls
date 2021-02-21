@@ -2,3 +2,8 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.block {
+  display: block;
+  font-weight: 400;
+}

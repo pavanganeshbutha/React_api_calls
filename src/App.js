@@ -26,6 +26,10 @@ export default function App() {
   }
   return (
     <div className="App">
+      <h3>
+        Try to search :{" "}
+        <span className="block">pikachu, charizard, blastoise</span>
+      </h3>
       <form>
         <input
           type="text"
