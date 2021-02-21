@@ -1,3 +1,6 @@
+body {
+  height: 95vh;
+}
 .App {
   font-family: sans-serif;
   text-align: center;
@@ -6,4 +9,8 @@
 .block {
   display: block;
   font-weight: 400;
+}
+
+p {
+  margin-bottom: 90%;
 }

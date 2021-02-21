@@ -45,6 +45,12 @@ export default function App() {
       </form>
       <h1>{name}</h1>
       <img src={image} alt="image" />
+      <p>
+        Made by{" "}
+        <a href="https://www.instagram.com/pavanganeshbutha/">
+          Pavan Ganesh Butha
+        </a>
+      </p>
     </div>
   );
 }
